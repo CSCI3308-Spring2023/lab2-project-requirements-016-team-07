@@ -18,3 +18,11 @@ git add submission
 git commit -m "add team document"
 git push
 ```
+
+Recitation-016-Team 7 
+
+Ben Lipman - blipman35
+TJ Jablonski - tyja6647
+Moses Bazzi - mosesbazzi
+Matt Lattin - mattlattin
+
